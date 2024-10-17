@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resumos de Análises do ChatGPT</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .analysis {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Resumos de Análises e Outputs</h1>
+
+    <div class="analysis">
+        <h2>Análise 1: Título da Análise</h2>
+        <p>Descrição ou resumo da análise feita pelo ChatGPT.</p>
+    </div>
+
+    <div class="analysis">
+        <h2>Análise 2: Outro Título</h2>
+        <p>Outro resumo ou output.</p>
+    </div>
+</body>
+</html>
